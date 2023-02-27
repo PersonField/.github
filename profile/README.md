@@ -2,10 +2,10 @@
 > 🎉 - Me
 
 ## Emojis
-* 🤠: profile
+* 🎉: profile consumability
 * 🪪: identification
 * 📙: repeatability
-* 🎉: consumability
+* 🤠: problems / solutions
 * ⬆️: limitations
 
 ## Graph
