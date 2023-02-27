@@ -4,8 +4,8 @@
 ## Emojis
 * 🎉: profile
 * 🪪: identification
-* 🌈: repeatability
-* 🩰: consumability
+* 👥: repeatability
+* 🌈: consumability
 * 👔: limitations
 
 ## Graph
