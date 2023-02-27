@@ -1,10 +1,10 @@
 # PersonProfile
-> 🎉 - Person.
+> 🎉 - Me
 
 ## Emojis
 * 🤠: profile
 * 🪪: identification
-* 👥: repeatability
+* 📙: repeatability
 * 🎉: consumability
 * ⬆️: limitations
 
