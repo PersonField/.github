@@ -2,7 +2,7 @@
 > 🎉 - Person.
 
 ## Emojis
-* 🌈: profile
+* 🤠: profile
 * 🪪: identification
 * 👥: repeatability
 * 🎉: consumability
