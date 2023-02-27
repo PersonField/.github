@@ -9,15 +9,15 @@
 * ⬆️: limitations
 
 ## Graph
-| # | Subject | Resource Location | Status |
+| # | Subject | Destination | Status |
 | ------- | ------- | ------- | ------- |
-| 0 | Individual |  |  |
-| 1 | Person |  |  |
-| 2 | Human Being |  | |
-| 3 | Self |  |   |
-| 4 | I |  | |
-| 5 | Me |  | |
+| 0 | Howdy | 🎉 | 🤠 |
+| 1 |  |  |  |
+| 2 |  |  | |
+| 3 |  |  |   |
+| 4 |  |  | |
+| 5 |  |  | |
 | 6 |  |  |  |
-| 7 | Myself |  |  |
+| 7 |  |  |  |
 | 8 |  |  |  |
 | 9 |  |  |  |
