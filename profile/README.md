@@ -6,7 +6,7 @@
 * 🪪: identification
 * 👥: repeatability
 * 🌈: consumability
-* 👔: limitations
+* ⬆️: better person
 
 ## Graph
 | # | Subject | Resource Location | Status |
