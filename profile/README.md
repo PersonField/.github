@@ -2,11 +2,11 @@
 > 🎉 - Person.
 
 ## Emojis
-* 🎉: profile
+* 🌈: profile
 * 🪪: identification
 * 👥: repeatability
-* 🌈: consumability
-* ⬆️: better person
+* 🎉: consumability
+* ⬆️: limitations
 
 ## Graph
 | # | Subject | Resource Location | Status |
