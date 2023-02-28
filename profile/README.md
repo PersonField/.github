@@ -4,7 +4,7 @@
 ## Emojis
 * 🎉: profile consumability
 * 🪪: identification
-* 📙: repeatability
+* 💩: repeatability
 * 🤠: problems / solutions
 * ⬆️: limitations
 
@@ -12,12 +12,12 @@
 | # | Subject | Destination | Status |
 | ------- | ------- | ------- | ------- |
 | 0 | [Howdy](https://github.com/PersonProfile/Howdy) |  | 🤠 |
-| 1 | Lifestyle Balance Schemas |  | 📙 |
+| 1 | Lifestyle Balance Schemas |  | 💩 |
 | 2 | Activity Calendars |  | 🤠 |
 | 3 | Me Web |  | 🎉 |
-| 4 |  |  |  |
+| 4 | [USA](https://github.com/PersonProfile/USA) | ⬆️ |  |
 | 5 |  |  |  |
 | 6 |  |  |  |
 | 7 |  |  |  |
 | 8 |  |  |  |
-| 9 | 🪪 | [InformationAsymmetry](https://github.com/InformationAsymmetry) | ⬆️ |
+| 9 | 🪪 | [InformationAsymmetry](https://github.com/InformationAsymmetry) |  |
