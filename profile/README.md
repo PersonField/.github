@@ -8,7 +8,7 @@
 * 🤠: problems / solutions
 * ⬆️: limitations
 
-## Graph
+## Table
 | # | Subject | Destination | Status |
 | ------- | ------- | ------- | ------- |
 | 0 | [Howdy](https://github.com/PersonGraph/Howdy) |  | 🤠 |
