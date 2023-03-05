@@ -18,6 +18,6 @@
 | 4 | Geographic Stuff | StaticStatic |  |
 | 5 | [Judges](https://github.com/InformationAsymmetry/Judges) |  | |
 | 6 | Repeating Art | LearnEverything | 🎉 |
-| 7 | Me Web | === Shielkwamm === | 📚 |
+| 7 | Reserved Words | PersonGraph | 📚 |
 | 8 |  |  |  |
-| 9 |  |  |  |
+| 9 | Me Web | === Shielkwamm === | 📚 |
