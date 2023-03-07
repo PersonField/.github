@@ -1,5 +1,5 @@
 # PersonGraph
-> 🎉 - Me
+> ⬆️ - Me
 
 ## Emojis
 * 🎉: profile consumability
@@ -15,9 +15,9 @@
 | 1 | Lifestyle Balance Schemas | InformationAsymmetry | 📚 |
 | 2 | Activity Calendars |  |  |
 | 3 | [USA](https://github.com/PersonGraph/USA) |  |  |
-| 4 | Geographic Stuff | StaticStatic | 📜 |
-| 5 | [Judges](https://github.com/InformationAsymmetry/Judges) |  | |
-| 6 | Repeating Art | LearnEverything | ⬆️ |
+| 4 | [Judges](https://github.com/InformationAsymmetry/Judges) |  |  |
+| 5 | Repeating Art | LearnEverything | 📜 |
+| 6 | Geographic Stuff | StaticStatic | ⬆️ |
 | 7 | Compounding Scarcities | PersonGraph | 📚 |
 | 8 | Ciphers, Interfaces, and Filters | PersonGraph | ⬆️ |
 | 9 | Me Web | === Shielkwamm === | 📚 |
