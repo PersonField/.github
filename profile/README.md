@@ -18,6 +18,6 @@
 | 4 | Geographic Stuff | StaticStatic | 📜 |
 | 5 | [Judges](https://github.com/InformationAsymmetry/Judges) |  | |
 | 6 | Repeating Art | LearnEverything | ⬆️ |
-| 7 | Ciphers, Interfaces, and Filters | PersonGraph | 📚 |
-| 8 |  |  |  |
+| 7 | Compounding Scarcities | PersonGraph | 📚 |
+| 8 | Ciphers, Interfaces, and Filters | PersonGraph | ⬆️ |
 | 9 | Me Web | === Shielkwamm === | 📚 |
